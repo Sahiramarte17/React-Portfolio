@@ -1,7 +1,7 @@
 // src/components/Portfolio.jsx
 import React from 'react';
 import Project from './Project';
-import placeholder from '../assets/coffee.jpg';
+import placeholder from '../assets/Employee.jpg';
 import placeholder2 from '../assets/coffee.jpg';
 
 const projects = [
