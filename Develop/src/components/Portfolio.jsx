@@ -2,7 +2,7 @@
 import React from 'react';
 import Project from './Project';
 import placeholder from '../assets/Employee.jpg';
-import placeholder2 from '../assets/coffee.jpg';
+import placeholder2 from '../assets/Vehicle.jpg';
 
 const projects = [
   {
