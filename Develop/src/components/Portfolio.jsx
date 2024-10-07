@@ -1,9 +1,9 @@
 // src/components/Portfolio.jsx
 import React from 'react';
 import Project from './Project';
-import placeholder from '../assets/Employee.jpg';
-import placeholder2 from '../assets/Vehicle.jpg';
-import placeholder3 from '../assets/Generator.jpg';
+import placeholder from '../assets/employee.jpg';
+import placeholder2 from '../assets/vehicle.jpg';
+import placeholder3 from '../assets/generator.jpg';
 
 const projects = [
   {
