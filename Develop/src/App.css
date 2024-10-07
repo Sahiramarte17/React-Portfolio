@@ -7,7 +7,7 @@
 }
 
 body {
-  background-color: whitesmoke;
+  background-color: rgb(67, 9, 9);
 }
 
 .bucket-app {
@@ -180,7 +180,7 @@ h3 {
 
 /* Change color of dropdown links on hover */
 .dropdown-content p:hover {
-  background-color: #ddd;
+  background-color:#c24040;
 }
 
 /* Show the dropdown menu on hover */
