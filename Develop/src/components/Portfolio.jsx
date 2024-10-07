@@ -1,19 +1,21 @@
 // src/components/Portfolio.jsx
 import React from 'react';
 import Project from './Project';
+import placeholder from '../assets/coffee.jpg';
+import placeholder2 from '../assets/coffee.jpg';
 
 const projects = [
   {
-    title: 'Project 1',
-    image: 'path-to-image1.jpg',
+    title: 'Employee-Tracker',
+    image: placeholder,
     deployedLink: 'https://deployed-link1.com',
-    githubLink: 'https://github.com/user/project1',
+    githubLink: 'https://github.com/Sahiramarte17/Employee-Tracker.git',
   },
   {
-    title: 'Project 2',
-    image: 'path-to-image2.jpg',
-    deployedLink: 'https://deployed-link2.com',
-    githubLink: 'https://github.com/user/project2',
+    title: 'Vehicle-Buider',
+    image: placeholder2,
+    deployedLink: 'https://adorable-marigold-ff2a29.netlify.app',
+    githubLink: 'https://github.com/Sahiramarte17/Sahira-vehicle-builder.git',
   },
   // Add more projects here
 ];

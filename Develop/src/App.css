@@ -192,3 +192,16 @@ h3 {
 .dropdown:hover .dropbtn {
   background-color: #5d0cff;
 }
+
+
+.page-content {
+  height: calc(100vh - 170px);
+}
+
+.proj-img {
+  width: 30%;
+}
+
+.img-wrapper {
+  background-image: url();
+}

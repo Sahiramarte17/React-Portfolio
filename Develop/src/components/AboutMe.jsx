@@ -3,7 +3,7 @@ import React from 'react';
 
 const AboutMe = () => {
   return (
-    <section id="about">
+    <section id="about" className='page-content'>
       <h2>About Me</h2>
       <img src="path-to-your-photo.jpg" alt="Developer" />
       <p>Short bio about yourself.</p>
