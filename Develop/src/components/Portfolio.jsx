@@ -3,6 +3,7 @@ import React from 'react';
 import Project from './Project';
 import placeholder from '../assets/Employee.jpg';
 import placeholder2 from '../assets/Vehicle.jpg';
+import placeholder3 from '../assets/Vehicle.jpg';
 
 const projects = [
   {
@@ -17,7 +18,12 @@ const projects = [
     deployedLink: 'https://adorable-marigold-ff2a29.netlify.app',
     githubLink: 'https://github.com/Sahiramarte17/Sahira-vehicle-builder.git',
   },
-  // Add more projects here
+  {
+    title: 'Readme Generator',
+    image: placeholder3,
+    deployedLink: 'https://adorable-marigold-ff2a29.netlify.app',
+    githubLink: 'https://github.com/Sahiramarte17/Sahira-vehicle-builder.git',
+  },
 ];
 
 const Portfolio = () => {
