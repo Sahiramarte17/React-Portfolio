@@ -7,19 +7,19 @@ import placeholder3 from '../assets/generator.jpg';
 
 const projects = [
   {
-    title: '',
+    title: 'Employee-Tracker',
     image: placeholder,
     deployedLink: 'https://deployed-link1.com',
     githubLink: 'https://github.com/Sahiramarte17/Employee-Tracker.git',
   },
   {
-    title: '',
+    title: 'Vehicle-Builder',
     image: placeholder2,
     deployedLink: 'https://adorable-marigold-ff2a29.netlify.app',
     githubLink: 'https://github.com/Sahiramarte17/Sahira-vehicle-builder.git',
   },
   {
-    title: '',
+    title: 'Readme-Generator',
     image: placeholder3,
     deployedLink: 'https://adorable-marigold-ff2a29.netlify.app',
     githubLink: 'https://github.com/Sahiramarte17/Sahira-Professional-README-Generator.git',
