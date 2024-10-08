@@ -6,6 +6,7 @@ import placeholder2 from '../assets/vehicle.jpg';
 import placeholder3 from '../assets/generator.jpg';
 import placeholder5 from '../assets/weather.jpeg';
 import placeholder6 from '../assets/jungle.jpg';
+import placeholder7 from '../assets/prework.jpg';
 const projects = [
   {
     title: 'Employee-Tracker',
@@ -34,7 +35,7 @@ const projects = [
   },
   {
     title: 'Prework-Study-guide',
-    image: placeholder6,
+    image: placeholder7,
     githubLink: 'https://github.com/Sahiramarte17/Prework-study-guide.git',
   },
   
