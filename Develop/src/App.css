@@ -7,7 +7,8 @@
 }
 
 body {
-  background-color: rgb(67, 9, 9);
+  background-color: rgb(68, 3, 68);
+  
 }
 
 .bucket-app {
@@ -16,7 +17,7 @@ body {
   justify-content: flex-start;
   width: 800px;
   min-height: 600px;
-  background: black;
+  background: rgb(221, 237, 237);
   text-align: center;
   margin: 32px auto;
   border-radius: 20px;
@@ -47,7 +48,7 @@ h3 {
 .bucket-input {
   padding: 14px 32px 14px 16px;
   border-radius: 4px;
-  border: 2px solid #5d0cff;
+  border: 2px solid #eae8ee;
   outline: none;
   width: 320px;
   background: transparent;
@@ -64,7 +65,7 @@ h3 {
   border-radius: 4px;
   cursor: pointer;
   outline: none;
-  background: #5d0cff;
+  background: #e2e0e6;
   color: #fff;
   text-transform: capitalize;
 }
@@ -148,7 +149,7 @@ h3 {
   color: white;
   padding: 16px;
   margin: 10px;
-  /* font-size: 16px; */
+  /* font-size: 20px; */
   border: none;
 }
 
@@ -172,7 +173,7 @@ h3 {
 
 /* Links inside the dropdown */
 .dropdown-content p {
-  color: black;
+  color: rgb(232, 225, 225);
   padding: 12px 16px;
   text-decoration: none;
   display: block;
@@ -199,7 +200,11 @@ h3 {
 }
 
 .proj-img {
-  width: 80%;
+width: 80%;
+border-color: black;
+ border-radius: 20px; /* Optional: rounded corners */
+  padding: 5px; /* Adds space between the image and the border */
+  box-shadow: 0 4px 6px black(0, 0, 0, 0.1);
 }
 
 .img-wrapper {

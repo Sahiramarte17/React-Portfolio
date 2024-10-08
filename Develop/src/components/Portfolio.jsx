@@ -7,19 +7,19 @@ import placeholder3 from '../assets/generator.jpg';
 
 const projects = [
   {
-    title: 'Employee-Tracker',
+    title: '',
     image: placeholder,
     deployedLink: 'https://deployed-link1.com',
     githubLink: 'https://github.com/Sahiramarte17/Employee-Tracker.git',
   },
   {
-    title: 'Vehicle-Buider',
+    title: '',
     image: placeholder2,
     deployedLink: 'https://adorable-marigold-ff2a29.netlify.app',
     githubLink: 'https://github.com/Sahiramarte17/Sahira-vehicle-builder.git',
   },
   {
-    title: 'Readme Generator',
+    title: '',
     image: placeholder3,
     deployedLink: 'https://adorable-marigold-ff2a29.netlify.app',
     githubLink: 'https://github.com/Sahiramarte17/Sahira-Professional-README-Generator.git',
@@ -30,6 +30,7 @@ const Portfolio = () => {
   return (
     <section id="portfolio">
       <h2>Portfolio</h2>
+      <br></br>
       <div className="projects">
         {projects.map((project, index) => (
           <Project

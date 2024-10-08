@@ -1,12 +1,25 @@
 body {
-  font-family: Arial, sans-serif;
+  font-family:'Lucida Sans Unicode', sans-serif;
+ font-size: 1.5rem
+
+
+ 
 }
 
-header, footer {
-  background-color: #333;
+header {
+  background-color: rgb(209, 159, 209);
+  color: white;
+  text-align: side;
+  padding: 10px;
+ 
+}
+
+footer{
+  background-color: rgb;
   color: white;
   text-align: center;
-  padding: 10px;
+  padding: 20px;
+  
 }
 
 nav ul {
@@ -23,12 +36,13 @@ nav ul li {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   gap: 20px;
+
 }
 
 form input, form textarea {
   display: block;
-  margin-bottom: 10px;
-  padding: 10px;
+  margin-bottom: 20px;
+  padding: 20px;
   width: 100%;
 }
 
