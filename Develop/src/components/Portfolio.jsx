@@ -34,7 +34,6 @@ const Portfolio = () => {
             key={index}
             title={project.title}
             image={project.image}
-            deployedLink={project.deployedLink}
             githubLink={project.githubLink}
           />
         ))}
