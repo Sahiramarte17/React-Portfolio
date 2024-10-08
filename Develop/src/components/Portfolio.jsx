@@ -1,10 +1,11 @@
 // src/components/Portfolio.jsx
 import React from 'react';
-import Project from './Project';
+import Project from './Project';  // Assuming Project is another component that you use to render each individual project
 import placeholder from '../assets/employee.jpg';
 import placeholder2 from '../assets/vehicle.jpg';
 import placeholder3 from '../assets/generator.jpg';
-
+import placeholder5 from '../assets/weather.jpeg';
+import placeholder6 from '../assets/jungle.jpg';
 const projects = [
   {
     title: 'Employee-Tracker',
@@ -21,6 +22,17 @@ const projects = [
     image: placeholder3,
     githubLink: 'https://github.com/Sahiramarte17/Sahira-Professional-README-Generator.git',
   },
+  {
+    title: 'Weather-Dashboard',
+    image: placeholder5,
+    githubLink: 'https://github.com/Sahiramarte17/Weather-Dashboard.git',
+  },
+  {
+    title: 'Jungle-Pair',
+    image: placeholder6,
+    githubLink: 'https://github.com/paolanayala/jungle-pairs.git',
+  },
+  
 ];
 
 const Portfolio = () => {
