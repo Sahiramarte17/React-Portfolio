@@ -26,7 +26,7 @@ const Resume = () => {
         <li> * Express</li>
         <li> * MySQL</li>
         <li> * Python</li>
-        <li> * JavaScript</li>
+        <li> * REST</li>
 
       </ul>
     </section>
