@@ -18,7 +18,8 @@ footer{
   background-color: rgb;
   color: white;
   text-align: center;
-  padding: 20px;
+  padding: 10px;
+  
   
 }
 
@@ -26,10 +27,11 @@ nav ul {
   display: flex;
   justify-content: center;
   list-style: none;
+  
 }
 
 nav ul li {
-  margin: 0 15px;
+  margin: 0 20px;
 }
 
 .projects {
