@@ -200,9 +200,9 @@ h3 {
 }
 
 .proj-img {
-width: 75%;
+width: 80%;
 border-color: black;
- border-radius: 20px; /* Optional: rounded corners */
+ border-radius: 50px; /* Optional: rounded corners */
   padding: 5px; /* Adds space between the image and the border */
   box-shadow: 0 4px 6px black(0, 0, 0, 0.1);
 }
