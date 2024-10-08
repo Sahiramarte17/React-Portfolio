@@ -111,15 +111,15 @@ h3 {
 .medium {
   background: linear-gradient(
     90deg,
-    rgba(255, 12, 241, 1) 0%,
-    rgba(250, 0, 135, 1) 100%
+    rgb(152, 11, 145) 0%,
+    rgb(147, 4, 80) 100%
   );
 }
 
 .high {
   background: linear-gradient(
     90deg,
-    rgba(20, 159, 255, 1) 0%,
+    rgb(172, 14, 114) 0%,
     rgba(17, 122, 255, 1) 100%
   );
 }
@@ -200,7 +200,7 @@ h3 {
 }
 
 .proj-img {
-width: 80%;
+width: 70%;
 border-color: black;
  border-radius: 20px; /* Optional: rounded corners */
   padding: 5px; /* Adds space between the image and the border */
