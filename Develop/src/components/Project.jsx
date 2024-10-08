@@ -7,7 +7,7 @@ const Project = ({ title, image, githubLink }) => {
       <img src={image} alt={title} className='proj-img'/>
       <h3>{title}</h3>
   
-      <a href={githubLink} target="_blank" rel="noopener noreferrer">Github</a>
+      <a href={githubLink} target="_blank" rel="noopener noreferrer">view</a>
     </div>
   );
 };

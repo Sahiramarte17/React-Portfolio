@@ -32,6 +32,11 @@ const projects = [
     image: placeholder6,
     githubLink: 'https://github.com/paolanayala/jungle-pairs.git',
   },
+  {
+    title: 'Prework-Study-guide',
+    image: placeholder6,
+    githubLink: 'https://github.com/Sahiramarte17/Prework-study-guide.git',
+  },
   
 ];
 
